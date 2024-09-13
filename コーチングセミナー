@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>コーチングセミナーin大阪</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #f2f2f2;
+            text-align: center;
+            padding: 50px 0;
+        }
+        .container {
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .footer {
+            background-color: #f2f2f2;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>イベント名</h1>
+        <p>日時: 2024年11月10日</p>
+        <p>参加費:3,300円（税込み）</p>
+        <p>会場: ル・クロ・ド・マリアージュ</p>
+        <p>住所: 大阪市中央区谷町2-2-22 NSビル2階</p>
+        <p>電話: 06-6942-9666</p>
+        <p>アクセス:OsakaMetro谷町線『天満橋』駅3番出口 徒歩5分</p>
+        <p>　　　　 OsakaMetro谷町線・中央線『谷町四丁目』駅1A出口 徒歩5分</p>
+        <p>　　　　 京阪電車『天満橋』駅東改札口 徒歩7分</p>
+
+    </div>
+
+    <div class="container">
+        <div class="section">
+            <h2>イベントの詳細</h2>
+            <p>このイベントは、[イベントの目的や背景] のために開催されます。</p>
+            <p>主催者: [2024コーチングセミナーin大阪　実行委員会]</p>
+        </div>
+
+        <div class="section">
+            <h2>スケジュール</h2>
+            <ul>
+                <li>10:00 - 開場</li>
+                <li>10:30 - 基調講演</li>
+                <li>12:00 - ランチ</li>
+                <li>13:00 - ワークショップ</li>
+                <li>15:00 - ネットワーキング</li>
+                <li>17:00 - 閉会</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>参加方法</h2>
+            <p>参加費用: 3,300円（税込み）</p>
+            <a href="[申し込みリンク]" class="button">申し込む</a>
+        </div>
+
+        <div class="section">
+            <h2>特典</h2>
+            <p>参加者には、特別なゲストによる講演や、限定グッズが提供されます。</p>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>お問い合わせ: itakura@nihon-est.co.jp</p>
+        <p>© 2024コーチングセミナーin大阪　実行委員会. All rights reserved.</p>
+    </div>
+</body>
+</html>
